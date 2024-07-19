@@ -3,7 +3,7 @@
 
 Skills: Go, Kubernetes, Web.
 
-- 🌱 I’m currently learning DevOps and SpringBoot
+- 🌱 I’m currently learning DevOps and Algorithms
 - 💬 Ask me about Services, Backend, Web
 
 
