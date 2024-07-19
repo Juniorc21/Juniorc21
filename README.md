@@ -8,7 +8,7 @@ Skills: Go, Kubernetes, Web.
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JuniorGuerra)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>]([https://www.linkedin.com/in/juniorguerra17/](https://www.linkedin.com/company/ipcom-network/)) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/company/ipcom-network/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://ipcom.ai)  
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorGuerra&layout=donut&hide=css,html,scss)](https://github.com/anuraghazra/github-readme-stats) -->
